@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prasetyatf
 - 👀 I’m interested in Python and Analyzing data
-- 🌱 I’m currently learning Python and Statistic Descriptive
-- 💞️ I’m looking to collaborate on basic python program
+- 🌱 I’m currently learning Python, Git, and Statistic
+- 💞️ I’m looking to collaborate on simple Python project
 - 📫 How to reach me IG: prasetyategar_ | tegarfitriaji@gmail.com
 
 <!---
