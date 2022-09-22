@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @prasetyatf
-- 👀 I’m interested in Python and Analyzing data
-- 🌱 I’m currently learning Python, Git, and Statistic
+- 👀 I’m interested in Python, Tableau, and Analyzing data
+- 🌱 I’m currently learning Data Analytic
 - 💞️ I’m looking to collaborate on simple Python project
-- 📫 How to reach me IG: prasetyategar_ | tegarfitriaji@gmail.com
+- 📫 How to reach me : tegarfitriaji@gmail.com
 
 <!---
 prasetyatf/prasetyatf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
