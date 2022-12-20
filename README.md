@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prasetyatf
-- 👀 I’m interested in Python, Tableau, and Analyzing data
+- 👀 I’m interested in Python, Tableau, and Analytic
 - 💞️ I’m looking to collaborate on simple Python project
 
 <!---
